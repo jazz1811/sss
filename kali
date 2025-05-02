@@ -1,0 +1,49 @@
+Basic File Management:
+
+ls:                    Lists files and directories in the current directory.
+cd:                      Changes the current working directory.
+pwd:                       Prints the current working directory.
+mkdir:                         Creates a new directory.
+rm:                       Removes files or directories.
+cp:                           Copies files and directories.
+mv:                             Moves or renames files and directories.
+touch:                           Creates a new empty file. 
+
+#Network and System Information:
+
+ifconfig:                                     Displays network interface configurations.
+ping:                                         Sends ICMP echo requests to test network connectivity.
+netstat:                                       Displays network statistics and connections.
+nmap:                                               Performs network scanning and port enumeration.
+uname:                                           Displays system information.
+whoami:                                       Displays the current user's name.
+clear:                                         Clears the terminal screen. 
+
+#Text Manipulation and Viewing:
+
+
+cat:                                       Displays the contents of a file.
+grep:                                   Searches for text within files or output.
+head:                                   Displays the first lines of a file.
+tail:                                     Displays the last lines of a file.
+less:                                         Displays multi-page outputs.
+find:                                     Locates files and directories based on various criteria.
+tar:                                       Creates and extracts archives. 
+
+#Advanced and Specialized Tools:
+
+Metasploit:                                     A powerful penetration testing framework.
+Aircrack-ng:                                     A tool for wireless network auditing.
+John the Ripper:                                           A password cracking tool.
+OWASP ZAP:                                             A web application security scanner.
+Nmap:                                                   A network scanner.
+Wireshark:                                           A network protocol analyzer.
+Burp Suite:                                           A web application proxy.
+Hydra:                                             A password cracker. 
+
+#Other Useful Commands:
+
+chmod:                                                     Changes file permissions.
+man:                                                   Displays manual pages for commands.
+echo:                                                   Prints text to the console.
+top:                                                     Provides an ongoing view of processor activity. 
